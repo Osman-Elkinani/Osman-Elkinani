@@ -1,51 +1,68 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250"/>
 
-<h3 align="center">
-  Welcome to Osman Elkinani's GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Hi there, I'm Osman Elkinani! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT%20and%20Embedded%20Systems%20Developer;ESP32%20%7C%20Firebase%20%7C%20Real-Time%20Apps;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=00b2ff&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B2FF&center=true&vCenter=true&width=550&lines=IoT+%26+Embedded+Systems+Developer;CS+Student+%7C+ESP32+%7C+Firebase;Building+Smart+Plant+Monitoring+Apps;Always+learning+and+creating!" />
   </a>
 </p>
 
-- 👨‍💻 I'm an IoT Developer with a passion for embedded systems.
-- 🌿 Currently building smart plant monitoring solutions using **ESP32** + **Firebase**.
-- 🚀 Always experimenting with new tech and real-time systems.
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Computer Science student** with a passion for problem-solving and innovation.
+- 🌱 Focused on building real-time, data-driven **IoT applications**.
+- 🧠 Curious about the world of **embedded systems**, **cloud integration**, and **automation**.
+- 🌿 Currently developing a **Smart Plant Monitoring System** using **ESP32** + **Firebase**.
+- 🚀 I love turning raw sensor data into meaningful, beautiful dashboards and systems.
 
 ---
 
 ### 🛠 Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=flat&logo=espressif&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-elkinaniosman@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elkinaniosman@gmail.com)  
+[![Email](https://img.shields.io/badge/Gmail-elkinaniosman@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elkinaniosman@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osman-elkinani)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/osman-elkinani)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/osman-elkinani)  
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/yourusername)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@yourusername)  
-
-> _Feel free to connect, collaborate, or just say hi!_
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@yourusername)
 
 ---
 
-<a href="https://komarev.com/ghpvc/?username=osman-elkinani&style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=osman-elkinani&style=for-the-badge" alt="profile view count">
-</a>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osman-elkinani&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=osman-elkinani&theme=radical" width="47%" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> The **ESP32** is tiny, but it’s my favorite sidekick when building something smart 🌱📡  
+> _I believe that even the smallest device can solve big problems — with the right code._
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=osman-elkinani&style=for-the-badge" alt="profile view count" />
+</p>
