@@ -1,9 +1,10 @@
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250"/>
 
-<!-- عنوان رئيسي مع محاذاة في المنتصف -->
-<h1 align="center">
-  Hi there, I'm Osman Elkinani! 👋
-</h1>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<h3 align="center">
+  Hi there, I'm Osman Elkinani! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -11,13 +12,16 @@
   </a>
 </p>
 
+
+
+
+
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 - 🎓 **CSE Student** with a passion for problem-solving and innovation.
-- 🧠 Curious about the world of **embedded systems**, **cloud integration**, and **automation**.
-
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 
 ### 🛠 Technical Arsenal
 
