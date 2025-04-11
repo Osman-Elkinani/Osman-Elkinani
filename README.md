@@ -1,11 +1,13 @@
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250"/>
 
-<h1 align="center">Hi there, I'm Osman Elkinani! 👋</h1>
+<!-- عنوان رئيسي مع محاذاة في المنتصف -->
+<h1 align="center">
+  Hi there, I'm Osman Elkinani! 👋
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=00B2FF&center=true&vCenter=true&width=550&lines=IoT+%26+Embedded+Systems+Developer;Always+learning+and+creating!" />
-
   </a>
 </p>
 
